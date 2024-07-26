@@ -1,4 +1,8 @@
 {
   "type": "@mikejgray/ovos-skill-projen.OVOSSkillProject",
-  "name": "ovos-skill-tell-me-a-poem"
+  "name": "ovos-skill-tell-me-a-poem",
+  "authorAddress": "tom@tpedersen.net",
+  "authorHandle": "tped",
+  "repositoryUrl": "https://github.com/tped/ovos-skill-tell-me-a-poem",
+  "skillClass": "TellMeAPoemSkill"
 }
