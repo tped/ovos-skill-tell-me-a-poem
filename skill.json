@@ -47,5 +47,5 @@
     "skillname": "ovos-skill-tell-me-a-poem",
     "authorname": "tped",
     "foldername": null,
-    "ovosskill": "OVOS Skill that reads requested poetry.  Work-in-process is put together"
+    "ovos poetry skill": "OVOS Skill that reads requested poetry.  Work-in-process is put together"
 }
