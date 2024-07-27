@@ -1,1 +1,51 @@
-{}
+{
+    "title": "",
+    "url": "https://github.com/tped/ovos-skill-tell-me-a-poem",
+    "summary": "",
+    "short_description": null,
+    "description": "This skill will read a random poem, recite a favorite poem from a json database. Early in development, database format and skill likley to chanage",
+    "examples": [
+        "Tell me a Poem",
+        "How are you?",
+        "Thank you"
+    ],
+    "desktopFile": false,
+    "warning": "",
+    "systemDeps": false,
+    "requirements": {
+        "python": [
+            "ovos-bus-client",
+            "ovos-plugin-manager",
+            "ovos-utils",
+            "ovos-workshop"
+        ],
+        "system": {},
+        "skill": []
+    },
+    "incompatible_skills": [],
+    "platforms": [
+        "i386",
+        "x86_64",
+        "ia64",
+        "arm64",
+        "arm"
+    ],
+    "branch": "master",
+    "license": "Unknown",
+    "icon": "",
+    "category": "TODO:",
+    "categories": [
+        "TODO:"
+    ],
+    "tags": [
+        "ovos skill"
+    ],
+    "credits": [
+        "authorName",
+        "(@githubUsername)"
+    ],
+    "skillname": "ovos-skill-tell-me-a-poem",
+    "authorname": "tped",
+    "foldername": null,
+    "ovosskill": "OVOS Skill that reads requested poetry.  Work-in-process is put together"
+}
