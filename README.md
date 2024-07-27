@@ -1,4 +1,4 @@
-# OVOSSkill
+# OVOS Poetry Skill
 
 OVOS Skill that reads requested poetry.  Work-in-process
 is put together
