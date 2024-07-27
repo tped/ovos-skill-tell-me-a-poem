@@ -1,14 +1,16 @@
 # OVOSSkill
 
-Introductory Skill so that Skill Authors can see how an OVOS Skill is put together
+OVOS Skill that reads requested poetry.  Work-in-process
+is put together
 
 ## About
 
-Information about your skill
+This skill will read a random poem, recite a favorite poem from a json database.
+Early in development, database format and skill likley to chanage
 
 ## Examples
 
-- "Hello world"
+- "Tell me a Poem"
 - "How are you?"
 - "Thank you"
 
